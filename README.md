@@ -37,4 +37,6 @@
 
 ### Model 4:
 ![image](https://github.com/ansh63766/Emotion_Classification_Using_Deep_Learning/assets/113677013/7099cd9e-43ba-43e0-833e-9e3f9807e466)
-![image](https://github.com/ansh63766/Emotion_Classification_Using_Deep_Learning/assets/113677013/b595c394-1399-4a73-b29f-6b0dd2b96ed8)
+![image](https://github.com/ansh63766/Emotion_Classification_Using_Deep_Learning/assets/113677013/341e9793-6c62-4bac-b88e-1ffbee2f7206)
+![image](https://github.com/ansh63766/Emotion_Classification_Using_Deep_Learning/assets/113677013/382e3921-ac51-4f82-b5e9-930f2f63c2e5)
+![image](https://github.com/ansh63766/Emotion_Classification_Using_Deep_Learning/assets/113677013/8e5715ea-4418-4323-8345-b94f5c9e4b52)
